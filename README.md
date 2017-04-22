@@ -1,2 +1,1 @@
-# dave
-dave's site
+https://github.com/davidcwhite/mywebsite.git 
